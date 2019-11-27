@@ -1,0 +1,13 @@
+npm init --yes
+npm install express
+npm install morgan
+npm install mongoose
+npm install webpack -D
+npm install webpack-cli -D
+npm install react react-dom
+npm install --save-dev @babel-core
+npm install @babel/preset-react
+npm install @babel/preset-env
+npm install --save jwt-simple
+npm i -S bcrypt-nodejs
+npm i -S crypto
