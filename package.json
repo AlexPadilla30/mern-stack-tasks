@@ -33,6 +33,6 @@
     "babel-preset-react": "^6.24.1",
     "nodemon": "^1.19.4",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
